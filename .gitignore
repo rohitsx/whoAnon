@@ -1,0 +1,29 @@
+### Node Modules ###
+node_modules/
+
+### Build Output ###
+dist/
+
+### Environment Files ###
+.env
+.env.local
+.env.*.local
+
+### Vite Cache ###
+.vite/
+
+### Editor & System Files ###
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.log
+
+### Dependencies Lock Files ###
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+### Typescript ###
+*.tsbuildinfo
+
